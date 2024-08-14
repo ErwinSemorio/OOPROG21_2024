@@ -1,6 +1,5 @@
 public class PrintCharacterPattern {
     public static void main(String[] args) {
-        // Directly print each line of the pattern
         System.out.println("X                        X");
         System.out.println("X                        X");
         System.out.println("X                        X");
